@@ -37,7 +37,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано "+ paperForStudents + " листов бумаги");
 
         byte bottlesInOneMinute= 8;
-        int bottles20Minutes  = bottlesInOneMinute * 20;
+        int bottles20Minutes = bottlesInOneMinute * 20;
         byte  amountMinHour = 60;
         short amountMinDay = 1440;
         int bottlesDay = bottlesInOneMinute * amountMinDay;
